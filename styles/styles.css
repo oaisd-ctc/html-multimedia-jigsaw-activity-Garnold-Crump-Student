@@ -1,0 +1,60 @@
+html {
+    background-color: rgb(65, 65, 65);
+}
+
+body {
+    color: rgb(133, 252, 232)
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+video {
+    margin-left: 770px;
+    margin-right: 770px;
+    border-style: solid;
+    border-color: rgb(133, 252, 232);
+    border-width: 1px 1px;
+    margin-left: 800px;
+    margin-right: 800px;
+}
+
+iframe {
+    background-color: rgb(201, 201, 201);
+    color: black;
+    border-style: solid;
+    border-color: rgb(133, 252, 232);
+    margin-left: 575px;
+    margin-right: 575px
+}
+
+canvas {
+    margin-left: 880px;
+    margin-right: 800px;
+}
+
+audio {
+    margin-left: 800px;
+    margin-right: 800px
+}
+
+svg {
+    margin-left: 850px;
+    margin-right: 850px;
+}
+
+
+#line {
+    margin-left: -70px;
+    margin-right: -70px;
+}
+
+#shape {
+    margin-left: 60px;
+    margin-right: 60px;
+}
